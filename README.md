@@ -1,4 +1,4 @@
-# This is a large heading
+# This is a Read Me file
 
 ## This is a smaller heading
 
